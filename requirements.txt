@@ -1,0 +1,6 @@
+operator
+streamlit
+numpy
+pandas
+statsmodels.api
+matplotlib.pyplot
